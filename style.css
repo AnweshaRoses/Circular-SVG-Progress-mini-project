@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Gudea&display=swap');
+*{
+    margin: 0;
+    font-family: 'Gudea', sans-serif;
+}
+.progress{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.progress-cirlce{
+    stroke-dasharray: 189;
+    stroke-dashoffset: 189;
+}
